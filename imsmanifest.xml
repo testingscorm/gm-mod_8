@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Tj9tc3ssqO" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">मॉड्यूल 8- क्वालिटी एनालिसिस (गुणवत्ता जांच)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="मॉड्यूल_8-_क्वालिटी_एनालिसिस_(गुणवत्ता_जांच)_ORG">
+    <organization identifier="मॉड्यूल_8-_क्वालिटी_एनालिसिस_(गुणवत्ता_जांच)_ORG">
+      <title>मॉड्यूल 8- क्वालिटी एनालिसिस (गुणवत्ता जांच)</title>
+      <item identifier="मॉड्यूल_8:_क्वालिटी_एनालिसिस_(गुणवत्ता_जांच)_SCO" isvisible="true" identifierref="__6Tj9tc3ssqO_RES">
+        <title>मॉड्यूल 8: क्वालिटी एनालिसिस (गुणवत्ता जांच)</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Tj9tc3ssqO_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6LQh98WDfml.png" />
+      <file href="mobile/5cKNShgXJya.png" />
+      <file href="mobile/5X5x5ATitni.png" />
+      <file href="mobile/6fk7eiFqmPY.png" />
+      <file href="mobile/64tNODG3BsT.png" />
+      <file href="mobile/6OTKD5yz1oZ.png" />
+      <file href="story_content/video_6cMwiiPegLk_22_160_1920x1080.mp4" />
+      <file href="mobile/poster_6Bq7uus7mXJ_video_6cMwiiPegLk_22_160_1920x1080.jpg" />
+      <file href="mobile/6YH3I24PsuH.png" />
+      <file href="mobile/659jSUA2UAX.png" />
+      <file href="mobile/6LAHROdwVnW.png" />
+      <file href="mobile/6ZdICGpxhIO.png" />
+      <file href="mobile/6g4oP2AfPW9.png" />
+      <file href="mobile/6XxQrZhHWRi.png" />
+      <file href="mobile/6RR09pDbwCa.png" />
+      <file href="mobile/6kWIEEhQbMU.png" />
+      <file href="mobile/60eGonGfweQ.png" />
+      <file href="story_content/5VAuyUgKRz8_44100_160_0.mp3" />
+      <file href="mobile/6rDpMjfJod1.png" />
+      <file href="mobile/6N4L1R4GQGG.png" />
+      <file href="story_content/62TDr6uwmKo_44100_160_0.mp3" />
+      <file href="mobile/6Pc8XlZNJLo.png" />
+      <file href="mobile/64FOryW1xoN.png" />
+      <file href="mobile/5uPpECasJJ6.png" />
+      <file href="mobile/6q2XhyPJoOI.png" />
+      <file href="mobile/6N46mQHlBWR.png" />
+      <file href="mobile/5ogHH2s3YXr.png" />
+      <file href="mobile/652GnBvHdf3.png" />
+      <file href="mobile/6eF7Ft2b6LL.png" />
+      <file href="mobile/5n0GFZvXH5j.png" />
+      <file href="mobile/6N3ZHOx2NfI.png" />
+      <file href="mobile/5wXcfhqRGVQ.png" />
+      <file href="mobile/5x0gwDNI14w.png" />
+      <file href="mobile/6TTdHEtTVYP.png" />
+      <file href="mobile/5tkQ3ABYBwe.png" />
+      <file href="mobile/5iTo961YtoF.png" />
+      <file href="mobile/5kUPRyam8Zp.png" />
+      <file href="story_content/6AJqCy8Q3fT_44100_160_0.mp3" />
+      <file href="story_content/6D3LceXD3vM_44100_160_0.mp3" />
+      <file href="story_content/6XsVAacqzLI_44100_160_0.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/6rdqF0sGpfE.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5h06ldL0QLG.js" />
+      <file href="html5/data/js/5kNo0Bnik6C.js" />
+      <file href="html5/data/js/5paE1rChZNE.js" />
+      <file href="html5/data/js/5rXZZSLkr3T.js" />
+      <file href="html5/data/js/64XaGd0ynDE.js" />
+      <file href="html5/data/js/6chl78rnzt5.js" />
+      <file href="html5/data/js/6DLFQhCQMoN.js" />
+      <file href="html5/data/js/6TZXDCcyP9n.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
